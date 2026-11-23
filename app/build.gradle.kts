@@ -36,6 +36,7 @@ android {
 
 dependencies {
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
+    implementation("com.squareup.retrofit2:retrofit:3.0.0")
 
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.robolectric:robolectric:4.18.1")
